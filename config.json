@@ -2,5 +2,5 @@
     "apiHost": "https://apisandbox.openbankproject.com", 
     "consumerKey": "ptrjrrdm2olgy4ageend0fnjjasovvig5kgqzoma",
     "consumerSecret" : "pxvtiktfno2cssmhjn2qa5v2zagel0hz5zenqqhh",
-    "redirectUrl": "http://127.0.0.1:8085/callback"
+    "redirectUrl": "http://openbankdemo.azurewebsites.net:8085/callback"
     }
