@@ -1,6 +1,6 @@
 {
     "apiHost": "https://apisandbox.openbankproject.com", 
-    "consumerKey": "jp1e1kujnujhyyu0djsoxbnfkmrxy4tjfi02rv22",
-    "consumerSecret" : "yo0gzex1pur4ongd4njuh4qeyocedw2grzbhmsbg",
+    "consumerKey": "ama1s1zr0dy2ahvlpwmu5sro2lt20xu1wtrb5o3h",
+    "consumerSecret" : "d0ztxinnd3ifdcwoja0hfmhmizaeqa00saj1t1mj",
     "redirectUrl": "http://openbankdemo.azurewebsites.net:8080/callback"
     }
