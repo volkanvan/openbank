@@ -57,7 +57,7 @@ var _openbankConsumerKey = config.consumerKey;
 var _openbankConsumerSecret = config.consumerSecret;
 var _openbankRedirectUrl = config.redirectUrl;
 
-var port = 8085
+var port = 8080
 
 // The location, on the interweb, of the OBP API server we want to use.
 var apiHost = config.apiHost;
